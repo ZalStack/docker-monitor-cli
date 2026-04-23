@@ -1,0 +1,71 @@
+Metadata-Version: 2.4
+Name: docker-monitor-cli
+Version: 1.0.0
+Summary: Advanced Docker Resource Monitoring CLI Tool
+Home-page: https://github.com/yourusername/docker-monitor-cli
+Author: DevOps Engineer
+Author-email: admin@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: Topic :: System :: Monitoring
+Classifier: Topic :: System :: Systems Administration
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: docker>=6.1.0
+Requires-Dist: click>=8.1.0
+Requires-Dist: rich>=13.0.0
+Requires-Dist: psutil>=5.9.0
+Requires-Dist: tabulate>=0.9.0
+Requires-Dist: colorama>=0.4.6
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# 🐳 Docker Monitor CLI
+
+Advanced Docker Resource Monitoring and Management CLI tool for DevOps engineers.
+
+## ✨ Features
+
+- 📊 **Real-time Resource Monitoring**: CPU, Memory, Network I/O, Block I/O
+- 📋 **Container Management**: List, Start, Stop, Restart containers
+- 🔍 **Detailed Inspection**: View container details and configuration
+- 📜 **Log Viewing**: Fetch and follow container logs
+- 📈 **Process Monitoring**: View running processes inside containers
+- 🧹 **Pruning**: Clean up unused containers and resources
+- 🎨 **Beautiful UI**: Rich terminal interface with colors and formatting
+- 🚀 **Live Updates**: Watch mode for real-time statistics
+
+## 📋 Requirements
+
+- Python 3.8+
+- Docker Engine 20.10+
+- Docker SDK for Python
+- Linux OS (Tested on Fedora)
+
+## 🚀 Installation
+
+### Method 1: Direct Installation (Recommended)
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/docker-monitor-cli.git
+cd docker-monitor-cli
+
+# Run installation script
+chmod +x scripts/install.sh
+./scripts/install.sh
+
+# Or install manually
+pip install -e .

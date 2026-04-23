@@ -1,0 +1,2 @@
+[console_scripts]
+docker-monitor = docker_monitor.cli:main
