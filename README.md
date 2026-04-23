@@ -630,7 +630,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - **Issues**: [GitHub Issues](https://github.com/ZalStack/docker-monitor-cli/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/ZalStack/docker-monitor-cli/discussions)
-- **Email**: admin@example.com
+- **Email**: fakhrizalgarnindyo@gmail.com
 
 ---
 
