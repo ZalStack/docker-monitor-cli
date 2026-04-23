@@ -1,20 +1,6 @@
 
 
-```markdown
-# 🐳 Docker Monitor CLI
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![Docker](https://img.shields.io/badge/Docker-20.10%2B-2496ED)](https://www.docker.com/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Fedora-orange)]()
-
-**Advanced Docker Resource Monitoring & Management CLI Tool**
-
-A powerful command-line interface tool for real-time monitoring and managing Docker containers, built with modern Python and the Docker SDK. Designed for DevOps engineers who want a lightweight yet feature-rich alternative to `docker stats`.
-
----
-
-## 📸 Screenshots
 
 ### Live Container Monitoring
 ```
