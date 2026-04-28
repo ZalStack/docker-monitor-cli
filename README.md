@@ -1,6 +1,18 @@
+# 🐳 Docker Monitor CLI
 
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![Docker](https://img.shields.io/badge/docker-20.10%2B-2496ED.svg?logo=docker&logoColor=white)](https://www.docker.com/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![Fedora](https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white)](https://fedoraproject.org/)
+[![Docker SDK](https://img.shields.io/badge/Docker%20SDK-6.1.0%2B-2496ED.svg)](https://github.com/docker/docker-py)
+[![Click](https://img.shields.io/badge/Click-8.1.0%2B-5C9C3E.svg)](https://click.palletsprojects.com/)
+[![Rich](https://img.shields.io/badge/Rich-13.0.0%2B-1B7B7B.svg)](https://github.com/Textualize/rich)
+[![Status](https://img.shields.io/badge/status-production--ready-success.svg)](https://github.com/ZalStack/docker-monitor-cli)
+[![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)](https://github.com/ZalStack/docker-monitor-cli/releases)
 
-
+---
 
 ### Live Container Monitoring
 ```
@@ -647,6 +659,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **Made with ❤️ on Fedora Linux | Python 3.14 | Docker 29.4**
-```
-
----
